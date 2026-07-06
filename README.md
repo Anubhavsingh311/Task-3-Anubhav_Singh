@@ -142,7 +142,7 @@ Centroids are inverse-transformed back to original feature space (Cₒᵣᵢ = (
 ## Repository Structure
 
 ```
-Task-3-Anubhav_Singh/
+Customer-Segmentation-Unsupervised-ML/
 │
 ├── Project3.ipynb                  ← Full analysis notebook (executed)
 ├── Dataset_for_Data_Analytics_Sheet1.csv
@@ -171,8 +171,8 @@ Task-3-Anubhav_Singh/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Anubhavsingh311/Task-3-Anubhav_Singh.git
-cd Task-3-Anubhav_Singh
+git clone https://github.com/Anubhavsingh311/Customer-Segmentation-Unsupervised-ML.git
+cd Customer-Segmentation-Unsupervised-ML
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -205,13 +205,6 @@ jupyter notebook Project3.ipynb
 - Elbow Method and Silhouette Score as diagnostic gatekeepers
 - Centroid inverse-transformation for business persona extraction
 - Feature engineering from raw transactional data
-
----
-
-## Related Projects
-
-- **Project 1:** [Task-1-Anubhav_Singh](https://github.com/Anubhavsingh311/Task-1-Anubhav_Singh)
-- **Project 2:** [Task-2-Anubhav_Singh](https://github.com/Anubhavsingh311/Task-2-Anubhav_Singh)
 
 ---
 
